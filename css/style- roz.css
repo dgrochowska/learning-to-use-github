@@ -83,7 +83,7 @@ header button:hover {
 @media (max-width: 533px) and (orientation: landscape) {
   header h1 {
     top: 40%;
-    font-size: 20px;
+    font-size: 25px;
   }
 
   header button {
